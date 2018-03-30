@@ -28,3 +28,22 @@ All challenges of Responsive Design with Bootstrap in https://www.freecodecamp.o
 
 **Link(s) to work**
 All challenges of jQuery in https://www.freecodecamp.org/map#nested-collapsejQuery
+
+### Day 4: March 29, 2018 Thursday
+
+**Today's Progress**: I've gone through all challenges on jQuery at FreeCodeCamp.
+
+**Thoughts** 4th day of #100DaysOfCode, Did the basic "Tribute page" project at #freeCodeCamp Technically finished but would like some update. Take-away is that some scetch prior coding would make it easier - will do so for next project
+
+**Link(s) to work**
+https://codepen.io/kristapsba/pen/mxXPOj
+
+### Day 5: March 30, 2018 Friday
+
+**Today's Progress**: Finished the basic "Tribute page" project at #freeCodeCamp. Also started the "Basic JavaScript" challenges
+
+**Thoughts** 5th day of #100DaysOfCode. Finished the basic "Tribute page" project at #freeCodeCamp, not 100% happy with the result but fine - will come back to it later when I`ll be refreshing stuff. Also today started the "Basic JavaScript" challenges.
+
+**Link(s) to work**
+https://codepen.io/kristapsba/pen/mxXPOj
+Basic JavaScript challenges https://www.freecodecamp.org/map#nested-collapseBasicJavaScript
