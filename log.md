@@ -54,8 +54,12 @@ Basic JavaScript challenges https://www.freecodecamp.org/map#nested-collapseBasi
 
 **Thoughts**: 6th day of #100DaysOfCode - as didn't have much time to use laptop figured out to use #SoloLearn mobile app. Did the whole JavaScript Tutorial course, so it will be useful when back to #freeCodeCamp Basic JavaScript challenges.
 
+**Link(s) to work**: https://www.sololearn.com/Certificate/1024-8596531/pdf/
+
 ### Day 7: April 1, 2018 Sunday
 
 **Today's Progress**: #SoloLearn HTML and SQL Tutorial courses
 
 **Thoughts**: 7th day of #100DaysOfCode - played around with #SoloLearn mobile app. Did the HTML and SQL tutorial course + continued with #freeCodeCamp Basic JavaScript challenges. Getting complicated with all that JavaScript stuff :D
+
+**Link(s) to work**: https://www.sololearn.com/Certificate/1014-8596531/pdf/ and https://www.sololearn.com/Certificate/1060-8596531/pdf/
