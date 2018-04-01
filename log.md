@@ -47,3 +47,15 @@ https://codepen.io/kristapsba/pen/mxXPOj
 **Link(s) to work**
 https://codepen.io/kristapsba/pen/mxXPOj
 Basic JavaScript challenges https://www.freecodecamp.org/map#nested-collapseBasicJavaScript
+
+### Day 6: March 31, 2018 Saturday
+
+**Today's Progress**: #SoloLearn JavaScript Tutorial course
+
+**Thoughts**: 6th day of #100DaysOfCode - as didn't have much time to use laptop figured out to use #SoloLearn mobile app. Did the whole JavaScript Tutorial course, so it will be useful when back to #freeCodeCamp Basic JavaScript challenges.
+
+### Day 7: April 1, 2018 Sunday
+
+**Today's Progress**: #SoloLearn HTML and SQL Tutorial courses
+
+**Thoughts**: 7th day of #100DaysOfCode - played around with #SoloLearn mobile app. Did the HTML and SQL tutorial course + continued with #freeCodeCamp Basic JavaScript challenges. Getting complicated with all that JavaScript stuff :D
